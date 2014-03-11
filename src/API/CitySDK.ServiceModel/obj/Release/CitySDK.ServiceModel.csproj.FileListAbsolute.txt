@@ -1,0 +1,17 @@
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\CitySDK.ServiceModel.dll
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\CitySDK.ServiceModel.pdb
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\MongoDB.Bson.dll
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\MongoDB.Driver.dll
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\ServiceStack.Common.dll
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\ServiceStack.Interfaces.dll
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\ServiceStack.ServiceInterface.dll
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\ServiceStack.Text.dll
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\ServiceStack.dll
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\MongoDB.Bson.xml
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\MongoDB.Driver.xml
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\ServiceStack.Common.xml
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\ServiceStack.Interfaces.xml
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\ServiceStack.Text.xml
+E:\CitySDK\src\CitySDK.ServiceModel\bin\Release\ServiceStack.xml
+E:\CitySDK\src\CitySDK.ServiceModel\obj\Release\CitySDK.ServiceModel.dll
+E:\CitySDK\src\CitySDK.ServiceModel\obj\Release\CitySDK.ServiceModel.pdb
